@@ -3,6 +3,6 @@
 # Gabriel Barros
 
 ## Olá pessoal 👋
-
+<!-- 
  <br/> :computer: &nbsp; Minha stack: Javascript. Em breve NodeJS, ReactJS e React Native
- <br/> 💬  &nbsp; Sobre mim: Curto muito programação, atualmente estudando JS na Udemy =D.  
+ <br/> 💬  &nbsp; Sobre mim: Curto muito programação, atualmente estudando JS na Udemy =D.  -->
