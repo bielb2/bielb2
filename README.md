@@ -12,4 +12,4 @@
 Hey! 
 I'm Gabriel, Developer at @Carambola, working with React Js.
 
-Currently learning: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b> and State management (Redux Saga).
+Currently learning: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b> and Redux Saga.
