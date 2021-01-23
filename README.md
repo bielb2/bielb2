@@ -7,8 +7,6 @@
 </table>
 </center>
 
-<br />
-
 ## 👨 About me
 
 Hey! 
