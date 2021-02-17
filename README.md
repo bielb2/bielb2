@@ -14,7 +14,7 @@
 Hey! 
 I'm Gabriel, programming enthusiast and developer at @Carambola working with React Js ecosystem. <br />
 To take the next step, it is necessary to set goals, putting on the table what you need and where you want to go, improving every day more. <br />
-In my linkedin you can see a little bit about me.
+On my linkedin you can see a little more about me.
 
 ----
 
