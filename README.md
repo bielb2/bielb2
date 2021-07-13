@@ -29,8 +29,7 @@ On my linkedin you can see a little more about me.
 ----
 
 ## 📚 Currently learning
-[![TypeScript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&link=https://redux-saga.js.org/)](https://redux-saga.js.org/)
+[![Next JS badge](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://vercel.com/)
 
 ----
 
