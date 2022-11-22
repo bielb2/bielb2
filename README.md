@@ -23,6 +23,6 @@ On my linkedin you can see a little more about me.
 ----
 
 ## 📓 Social
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bielb2/)](https://www.linkedin.com/in/bielb2/) -->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bielb2/)](https://www.linkedin.com/in/bielb2/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/bielb2)](https://github.com/bielb2)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white&link=mailto:bielb2@hotmail.com)](mailto:bielb2@hotmail.com)
