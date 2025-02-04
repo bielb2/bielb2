@@ -1,9 +1,8 @@
 ## 👨 About me
 
 Hey! 
-I'm Gabriel, programming enthusiast working with React Js ecosystem. <br />
-To take the next step you need to set goals, putting on the table what you need and where you want to go, getting better every day. <br />
-On my linkedin you can see a little more about me.
+I’m passionate about web development, specializing in the **React.js ecosystem**. I love building scalable, high-performance applications and staying up to date with the latest technologies in frontend development. <br />
+Currently working as Senior Software Engineer at [Robbyson](https://robbyson.com/)
 
 ----
 
