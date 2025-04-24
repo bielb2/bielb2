@@ -24,7 +24,3 @@ Currently working as Senior Software Engineer at [Robbyson](https://robbyson.com
 [![Kurbernets badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
 
 ----
-
-## 📓 Social
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bielb2/)](https://www.linkedin.com/in/bielb2/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/bielb2)](https://github.com/bielb2)
