@@ -4,8 +4,6 @@ Hey!
 I’m passionate about web development, specializing in the **React.js ecosystem**. I love building scalable, high-performance applications and staying up to date with the latest technologies in frontend development. 
 <br />
 
-Currently working as Senior Software Engineer at [Robbyson](https://robbyson.com/)
-
 ----
 
 ## 📌 Skills
